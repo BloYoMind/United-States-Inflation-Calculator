@@ -31,9 +31,8 @@ def calculate_inflation_adjusted_value(start_value, start_year, end_year, cpi_da
 
 # Example usage
 if __name__ == "__main__":
-    # Replace with your own CPI data
     cpi_data = [
-        {"Year": 1800, "CPI": 51},
+    {"Year": 1800, "CPI": 51},
     {"Year": 1801, "CPI": 50},
     {"Year": 1802, "CPI": 43},
     {"Year": 1803, "CPI": 45},

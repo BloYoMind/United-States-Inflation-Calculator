@@ -1,5 +1,5 @@
 # Inflation Calculator
-This is an open source python inflation calculator
+This is an open source python inflation calculator that goes back to 1800 with accurate Goverment Data
 Download the python file and run the command:
 *pip install pandas*
 This is the only library you will need. The inflation data is already added, and it goes back to the year 1800. I will update it to the next year each december.

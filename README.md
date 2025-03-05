@@ -1,5 +1,5 @@
 # United States Inflation Calculator
-If you don't have Python, please get it. It not only is a great programming language, and it is required for this program to work.
+If you don't have Python, please get it. It not only is a great programming language, and it is required for this program to work. You can get it [here](https://www.python.org/)
 This is an open source python inflation calculator for the United States that goes back to 1800 with accurate Goverment Data.
 Before you download the program you will need to install the python library "pandas" using a tool called pip, which comes with python. 
 

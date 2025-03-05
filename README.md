@@ -1,5 +1,5 @@
 # United States Inflation Calculator
-This is an open source python inflation calculator for the United States that goes back to 1800 with accurate Goverment Data
+If you don't have Python, please get it. It not only is a great programming language, but it is required for this program to work. This is an open source python inflation calculator for the United States that goes back to 1800 with accurate Goverment Data
 before you download the program, run the command in command prompt:
 *pip install pandas*
 This is the only library you will need. The inflation data is already added, and it goes back to the year 1800. I will update it to the next year each december.

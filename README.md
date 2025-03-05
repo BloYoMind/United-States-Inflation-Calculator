@@ -16,4 +16,4 @@ This is the only library you will need. The inflation data is already added, so 
 
 Downlaod the program from [here](https://github.com/BloYoMind/United-States-Inflation-Calculator/releases/tag/InflationCalculator).
 
-**The Data  is from the Federal Reserve Bank of Minneapolis. You can find all the data [here](https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1800-)the Data from 1800 to 1912 is an approximate from the reserve bank.**
+**The Data  is from the Federal Reserve Bank of Minneapolis. You can find all the data [here](https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1800-) the Data from 1800 to 1912 is an approximate from the reserve bank.**

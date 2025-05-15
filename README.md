@@ -14,6 +14,8 @@ Before you download the program you will need to install the python library "pan
 
 This is the only library you will need. The inflation data is already added, so it does not need an internet data. This data goes back to the year 1800. I will update it to the each december.
 
+I am currently working on turning it into a .exe file so you can use it without needing Python. 
+
 Downlaod the program from [here](https://github.com/BloYoMind/United-States-Inflation-Calculator/releases/tag/InflationCalculator).
 
 **The Data  is from the Federal Reserve Bank of Minneapolis. You can find all the data [here.](https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1800-) The Data from 1800 to 1912 is an approximate from the reserve bank.**
